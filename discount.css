@@ -1,0 +1,66 @@
+.main{
+    width: 90%;
+    margin: 0 auto;
+}
+ 
+.section1, .section2, .section3, .section4, .section5{
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.green{
+    color: green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.red{
+    color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.image1{
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/63cba2109171839.62153f7c9b399.jpg);
+    width: 100%;
+    height: 300px;
+    background-position: center;
+    background-size: 96%; 
+}
+.image2{
+    background-image: url(https://www.orental.ru/upload/resize_cache/iblock/6fc/1140_440_1/em7mph7r4xy50l4jlywy3zwhomdi93ju.jpg)
+        
+;
+    width: 100%;
+    height: 300px;
+    background-position:center;
+    background-size: cover; 
+}
+.image3{
+    background-image: url(https://zielinskiandrozen.com/wp-content/plugins/zrp-video-bg/images/video-cover.jpg)
+      
+;
+    width: 100%;
+    height: 300px;
+    background-position:center;
+    background-size: cover; 
+}
+.image4{
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/9e508f109171839.62153f7c8f953.jpg);
+        
+    
+        
+    width: 100%;
+    height: 300px;
+    background-position:center;
+    background-size: cover;
+}
+.image5{
+    background-image: url(https://static.tildacdn.com/tild6638-6530-4230-a233-633563376266/36983706_45450349828.jpg)
+      
+ ;
+    width: 100%;
+    height: 300px;
+    background-position:center;
+    background-size: 100%;
+} 

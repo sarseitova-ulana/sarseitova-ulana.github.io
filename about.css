@@ -1,0 +1,42 @@
+.card{
+    width: 100%;
+    height: 600px;
+    display: flex; 
+    flex-wrap: wrap;
+}
+.card1 img{
+    width: 672px;
+    height: 700px; 
+}
+.card2 img{ 
+    width:672px; 
+}
+.card3 img{ 
+    width: 672px;
+    height: 400px; 
+} 
+@media (max-width:716px){
+    body{
+        background-color: #202221;
+    }
+    .card{
+        width: 100%;
+        height: 600px;  
+        flex-direction: column;
+        flex-wrap: wrap;
+        margin: 0;
+    }   
+    .card1 img{
+        width: 220px;
+        height: 300px;
+    }
+    .card2 img{
+        width: 177px;
+        height: 150px;
+    }
+    .card3 img{
+        width: 179px;
+        height: 150px;
+    }
+    
+}   

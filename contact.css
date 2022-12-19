@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(34, 34, 34);
+    color: rgb(229, 211, 211);
+    font-family: 'Oxygen', sans-serif;
+}
+.name-cont{ 
+    text-align: center;
+    margin: 50px;
+}
+.lorem{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px ;
+}
+input{
+    width: 250px;
+    height: 30px;
+    border-color:rgb(0, 0, 0);
+    margin: 10px;
+} 
+.btn{
+
+    width: 280px;
+    height: 40px;
+    border: none;
+    font-family: 'Oxygen', sans-serif;
+    border-radius: 10px;
+    background-color: rgb(69, 66, 66);
+    color: rgb(240, 231, 231); }
